@@ -16,13 +16,13 @@
 
 8. balanced_labels.csv - A CSV file that contains the labels for the augmented plant images.
 
-9. cnn_plant_seedling_model.h5 - A .h5 file that contains the trained CNN model.
+9. cnn_plant_seedling_model.h5 (not uploaded due to size) - A .h5 file that contains the trained CNN model.
 
-10. X_train.csv - A CSV file that contains the training data.
+10. X_train.csv (not uploaded due to size) - A CSV file that contains the training data.
 
-11. X_val.csv - A CSV file that contains the validation data.
+11. X_val.csv (not uploaded due to size) - A CSV file that contains the validation data.
 
-12. X_test.csv - A CSV file that contains the test data.
+12. X_test.csv (not uploaded due to size) - A CSV file that contains the test data.
 
 13. y_train.csv - A CSV file that contains the training labels.
 
