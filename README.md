@@ -1,5 +1,14 @@
 # D604-Task-1-Neural-Networks
+### Overview
+This task focused on developing a CNN model to classify plant seedlings into 12 species, aiming to assist with weed detection in agriculture. The project involved data preprocessing, augmentation, model training, and performance evaluation to ensure robust multi-class image classification.
 
+### Convolutional Neural Network (CNN) – Plant Seedling Classification
+- Built and trained a CNN model using augmented image data; achieved ~67% test accuracy and ~0.66 F1-score.
+- Applied data augmentation and regularization techniques (dropout, early stopping) to address class imbalance and overfitting.
+- Evaluated model performance with accuracy, confusion matrix, and F1-score; saved the final model in .h5 format for future use.
+
+
+### Files
 1. README.md - A file describing other files in this repository.
 
 2. D604Task1Final.ipynb - A Jupyter Notebook file that contains the code for neural networks.
