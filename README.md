@@ -1,4 +1,4 @@
-# D604-Task-1-Neural-Networks
+# Neural Networks
 ### Overview
 This task focuses on developing a CNN model to classify plant seedlings into 12 species, aiming to assist with weed detection in agriculture. The project involves data preprocessing, augmentation, model training, and performance evaluation to ensure robust multi-class image classification.
 
