@@ -1,11 +1,12 @@
 # Neural Networks
 ### Overview
-This task focuses on developing a CNN model to classify plant seedlings into 12 species, aiming to assist with weed detection in agriculture. The project involves data preprocessing, augmentation, model training, and performance evaluation to ensure robust multi-class image classification.
+This project used a Convolutional Neural Network (CNN) to classify plant seedlings into 12 species, helping with weed detection in farming. It included image preprocessing, model training, and performance evaluation.
 
 ### Convolutional Neural Network (CNN) – Plant Seedling Classification
-- Built and trained a CNN model using augmented image data; achieved ~67% test accuracy and ~0.66 F1-score.
-- Applied data augmentation and regularization techniques (dropout, early stopping) to address class imbalance and overfitting.
-- Evaluated model performance with accuracy, confusion matrix, and F1-score; saved the final model in .h5 format for future use.
+- Built and trained a CNN model using image data with augmentation to improve learning
+- Reached about 67% test accuracy and a 0.66 F1-score
+- Used dropout and early stopping to reduce overfitting and handle class imbalance
+- Evaluated the model using accuracy, F1-score, and a confusion matrix; saved the trained model in .h5 format for future use
 
 
 ### Files
